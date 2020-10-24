@@ -1,4 +1,4 @@
 # OJCarousel
-WIP temporarly<br/>
 Simple lightweight JS image carousel<br/>
-You can copy, modify and use it where do you want and as do you want.
+You can copy, modify and use it where do you want and as do you want.<br/><br/>
+Requires jQuery.
